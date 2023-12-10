@@ -1,0 +1,49 @@
+c:\users\mfpledon\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\mfpledon\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\mfpledon\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\mfpledon\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\mfpledon\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\mfpledon\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\mfpledon\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\PessoaAluno.vbproj.GenerateResource.Cache
+c:\users\mfpledon\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\mfpledon\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\mfpledon\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\PessoaAluno\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\mfpledon\Documents\Visual Studio 2013\Projects\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\PessoaAluno\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\PessoaAluno\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\PessoaAluno\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\PessoaAluno\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\PessoaAluno\WindowsApplication1\obj\Debug\PessoaAluno.vbprojResolveAssemblyReference.cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\PessoaAluno\WindowsApplication1\obj\Debug\PessoaAluno.vbproj.GenerateResource.Cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\PessoaAluno\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\PessoaAluno\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\PessoaAluno\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\PessoaAluno\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\PessoaAluno\WindowsApplication1\obj\Debug\PessoaAluno.vbproj.AssemblyReference.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\PessoaAluno\WindowsApplication1\obj\Debug\PessoaAluno.vbproj.GenerateResource.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\PessoaAluno\WindowsApplication1\obj\Debug\PessoaAluno.vbproj.CoreCompileInputs.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\PessoaAluno\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\PessoaAluno\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\PessoaAluno\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\PessoaAluno\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\PessoaAluno\WindowsApplication1\obj\Debug\PessoaAluno.vbproj.AssemblyReference.cache
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\PessoaAluno\WindowsApplication1\obj\Debug\PessoaAluno.vbproj.GenerateResource.cache
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\PessoaAluno\WindowsApplication1\obj\Debug\PessoaAluno.vbproj.CoreCompileInputs.cache
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\PessoaAluno\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

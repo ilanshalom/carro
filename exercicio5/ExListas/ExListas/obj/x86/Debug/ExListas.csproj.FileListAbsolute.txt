@@ -1,0 +1,61 @@
+c:\users\ledon\documents\visual studio 2010\Projects\ExListas\ExListas\bin\Debug\ExListas.exe
+c:\users\ledon\documents\visual studio 2010\Projects\ExListas\ExListas\bin\Debug\ExListas.pdb
+c:\users\ledon\documents\visual studio 2010\Projects\ExListas\ExListas\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ledon\documents\visual studio 2010\Projects\ExListas\ExListas\obj\x86\Debug\ExListas.Form1.resources
+c:\users\ledon\documents\visual studio 2010\Projects\ExListas\ExListas\obj\x86\Debug\ExListas.Properties.Resources.resources
+c:\users\ledon\documents\visual studio 2010\Projects\ExListas\ExListas\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ledon\documents\visual studio 2010\Projects\ExListas\ExListas\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ledon\documents\visual studio 2010\Projects\ExListas\ExListas\obj\x86\Debug\ExListas.exe
+c:\users\ledon\documents\visual studio 2010\Projects\ExListas\ExListas\obj\x86\Debug\ExListas.pdb
+C:\D\Aulas   -    2014 - 2º semestre\TE\ExListas\ExListas\obj\x86\Debug\ExListas.exe
+C:\D\Aulas   -    2014 - 2º semestre\TE\ExListas\ExListas\obj\x86\Debug\ExListas.pdb
+C:\D\Aulas   -    2014 - 2º semestre\TE\ExListas\ExListas\bin\Debug\ExListas.exe
+C:\D\Aulas   -    2014 - 2º semestre\TE\ExListas\ExListas\bin\Debug\ExListas.pdb
+C:\D\Aulas   -    2014 - 2º semestre\TE\ExListas\ExListas\obj\x86\Debug\ExListas.csprojResolveAssemblyReference.cache
+C:\D\Aulas   -    2014 - 2º semestre\TE\ExListas\ExListas\obj\x86\Debug\ExListas.Form1.resources
+C:\D\Aulas   -    2014 - 2º semestre\TE\ExListas\ExListas\obj\x86\Debug\ExListas.Properties.Resources.resources
+C:\D\Aulas   -    2014 - 2º semestre\TE\ExListas\ExListas\obj\x86\Debug\ExListas.csproj.GenerateResource.Cache
+C:\D\A01\ExListas\ExListas\obj\x86\Debug\ExListas.exe
+C:\D\A01\ExListas\ExListas\obj\x86\Debug\ExListas.pdb
+C:\D\A01\ExListas\ExListas\bin\Debug\ExListas.exe
+C:\D\A01\ExListas\ExListas\bin\Debug\ExListas.pdb
+C:\D\A01\ExListas\ExListas\obj\x86\Debug\ExListas.csprojResolveAssemblyReference.cache
+C:\D\A01\ExListas\ExListas\obj\x86\Debug\ExListas.Form1.resources
+C:\D\A01\ExListas\ExListas\obj\x86\Debug\ExListas.Properties.Resources.resources
+C:\D\A01\ExListas\ExListas\obj\x86\Debug\ExListas.csproj.GenerateResource.Cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\ExListas\ExListas\bin\Debug\ExListas.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\ExListas\ExListas\bin\Debug\ExListas.pdb
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\ExListas\ExListas\obj\x86\Debug\ExListas.csprojResolveAssemblyReference.cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\ExListas\ExListas\obj\x86\Debug\ExListas.Form1.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\ExListas\ExListas\obj\x86\Debug\ExListas.Properties.Resources.resources
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\ExListas\ExListas\obj\x86\Debug\ExListas.csproj.GenerateResource.Cache
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\ExListas\ExListas\obj\x86\Debug\ExListas.exe
+C:\D\Aulas          -    2017 - 2º semestre\2017-2º - TE\ExListas\ExListas\obj\x86\Debug\ExListas.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\ExListas\ExListas\bin\Debug\ExListas.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\ExListas\ExListas\bin\Debug\ExListas.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\ExListas\ExListas\obj\x86\Debug\ExListas.csprojAssemblyReference.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\ExListas\ExListas\obj\x86\Debug\ExListas.Form1.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\ExListas\ExListas\obj\x86\Debug\ExListas.Properties.Resources.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\ExListas\ExListas\obj\x86\Debug\ExListas.csproj.GenerateResource.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\ExListas\ExListas\obj\x86\Debug\ExListas.csproj.CoreCompileInputs.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\ExListas\ExListas\obj\x86\Debug\ExListas.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\ExListas\ExListas\obj\x86\Debug\ExListas.pdb
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\ExListas\ExListas\bin\Debug\ExListas.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\ExListas\ExListas\bin\Debug\ExListas.pdb
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\ExListas\ExListas\obj\x86\Debug\ExListas.csproj.AssemblyReference.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\ExListas\ExListas\obj\x86\Debug\ExListas.Form1.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\ExListas\ExListas\obj\x86\Debug\ExListas.Properties.Resources.resources
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\ExListas\ExListas\obj\x86\Debug\ExListas.csproj.GenerateResource.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\ExListas\ExListas\obj\x86\Debug\ExListas.csproj.CoreCompileInputs.cache
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\ExListas\ExListas\obj\x86\Debug\ExListas.exe
+C:\D\Aulas                  -    2021 - 2º semestre\TE\Aula 03 - TE - 2019\ExListas\ExListas\obj\x86\Debug\ExListas.pdb
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\ExListas\ExListas\bin\Debug\ExListas.exe.config
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\ExListas\ExListas\bin\Debug\ExListas.exe
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\ExListas\ExListas\bin\Debug\ExListas.pdb
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\ExListas\ExListas\obj\x86\Debug\ExListas.csproj.AssemblyReference.cache
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\ExListas\ExListas\obj\x86\Debug\ExListas.Form1.resources
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\ExListas\ExListas\obj\x86\Debug\ExListas.Properties.Resources.resources
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\ExListas\ExListas\obj\x86\Debug\ExListas.csproj.GenerateResource.cache
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\ExListas\ExListas\obj\x86\Debug\ExListas.csproj.CoreCompileInputs.cache
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\ExListas\ExListas\obj\x86\Debug\ExListas.exe
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\ExListas\ExListas\obj\x86\Debug\ExListas.pdb

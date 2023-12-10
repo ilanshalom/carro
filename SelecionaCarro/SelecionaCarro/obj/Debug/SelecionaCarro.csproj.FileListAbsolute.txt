@@ -1,0 +1,33 @@
+c:\users\logonaf\documents\visual studio 2013\Projects\SelecionaCarro\SelecionaCarro\bin\Debug\SelecionaCarro.exe.config
+C:\Users\mfpledon\Desktop\SelecionaCarro\SelecionaCarro\bin\Debug\SelecionaCarro.exe.config
+C:\Users\mfpledon\Desktop\SelecionaCarro\SelecionaCarro\bin\Debug\SelecionaCarro.exe
+C:\Users\mfpledon\Desktop\SelecionaCarro\SelecionaCarro\bin\Debug\SelecionaCarro.pdb
+C:\Users\mfpledon\Desktop\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.csprojResolveAssemblyReference.cache
+C:\Users\mfpledon\Desktop\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.Form1.resources
+C:\Users\mfpledon\Desktop\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.Properties.Resources.resources
+C:\Users\mfpledon\Desktop\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.csproj.GenerateResource.Cache
+C:\Users\mfpledon\Desktop\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.exe
+C:\Users\mfpledon\Desktop\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.pdb
+C:\D\A01\SelecionaCarro\SelecionaCarro\bin\Debug\SelecionaCarro.exe.config
+C:\D\A01\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.exe
+C:\D\A01\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\SelecionaCarro\SelecionaCarro\bin\Debug\SelecionaCarro.exe.config
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\SelecionaCarro\SelecionaCarro\bin\Debug\SelecionaCarro.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\SelecionaCarro\SelecionaCarro\bin\Debug\SelecionaCarro.pdb
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.csprojAssemblyReference.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.Form1.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.Properties.Resources.resources
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.csproj.GenerateResource.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.csproj.CoreCompileInputs.cache
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.exe
+C:\D\Aulas              -    2019 - 2º semestre\Aulas 2019 - 2º sem - TE\Aula 03 - TE - 2019\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.pdb
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\SelecionaCarro\SelecionaCarro\bin\Debug\SelecionaCarro.exe.config
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\SelecionaCarro\SelecionaCarro\bin\Debug\SelecionaCarro.exe
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\SelecionaCarro\SelecionaCarro\bin\Debug\SelecionaCarro.pdb
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.csproj.AssemblyReference.cache
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.Form1.resources
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.Properties.Resources.resources
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.csproj.GenerateResource.cache
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.csproj.CoreCompileInputs.cache
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.exe
+C:\D\Aulas      -     2023-2\TE\Aula 03 - TE - 2023\SelecionaCarro\SelecionaCarro\obj\Debug\SelecionaCarro.pdb
